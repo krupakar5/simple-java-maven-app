@@ -1,3 +1,4 @@
+# adding new line for versioning
 # simple-java-maven-app
 
 This repository is for the
